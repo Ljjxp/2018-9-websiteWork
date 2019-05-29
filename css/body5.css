@@ -1,0 +1,47 @@
+*
+{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+body{
+	background-image:url(../images/33.jpg);
+	background-size: cover;
+	background-attachment:fixed;
+	
+}
+.each_card_picture
+{
+	position: absolute;
+	left:100px;
+	top:45px;
+	height: 210px;
+	width: 150px;
+}
+.each_card_project
+{
+	position: absolute;
+	left: 320px;
+	top: 50px;
+}
+.each_card_introduction
+{
+	position: absolute;
+	left: 440px;
+	right: 50px;
+	top: 50px;
+}
+
+
+.picture{
+	margin-left:10%; 
+}
+.picture img{
+width: 80%;
+}
+.picture2{
+	margin-left:30%; 
+}
+.picture2 img{
+width:40%;
+}

@@ -1,0 +1,49 @@
+.text_title
+{
+	padding: 0px;
+	position:relative;
+	top:20px;
+	left:13%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+}
+.text_title2
+{
+	padding: 0px;
+	position:relative;
+	top:20px;
+	left:13%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+	color:#6d6d6d;
+}
+.each_card
+{
+	position: relative;
+	top:0px;
+	height:300px;
+	width: 100%;
+}
+.each_card_picture
+{
+	position: absolute;
+	left:100px;
+	top:45px;
+	height: 210px;
+	width: 150px;
+}
+.each_card_project
+{
+	position: absolute;
+	left: 320px;
+	top: 50px;
+}
+.each_card_introduction
+{
+	position: absolute;
+	left: 440px;
+	right: 50px;
+	top: 50px;
+}

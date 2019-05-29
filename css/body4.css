@@ -1,0 +1,13 @@
+*
+{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+body{
+	background-image:url(../images/22.jpeg);
+	background-size: cover;
+    background-attachment:fixed;
+    
+	
+}

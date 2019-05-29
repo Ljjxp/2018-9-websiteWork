@@ -1,0 +1,76 @@
+.page
+{
+    margin: 0 0 0 90px;
+    background-color: white;
+    width: 50%;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.965;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.8);
+}
+
+table tr {
+    line-height: 2.5em;
+}
+table {
+    margin-left:5.0em;
+
+}
+td{
+    
+    color:#444;
+}
+th{
+    padding: 9px;
+    text-align: left;
+    font-size: 23px;
+    
+}
+label
+{
+    color: #444444;
+}
+input[type="text"] {
+          
+    border:1px solid black;
+    padding:0.5em;
+     width: 455px;
+     font-size:16px;
+      background:none;
+ }
+textarea
+{
+
+    border:1px solid black;
+    font-size: 18px;
+    width:455px;
+    padding:0.5em;
+    min-width: 0;
+    height: 150px;
+}
+.submit1
+{
+    margin:0 auto;
+    display:table;
+    margin-left: 203px;
+    margin-top: 16px;
+}
+input[type='submit']
+{
+    font-size: 25px;
+
+    width: 456px;
+}
+select:focus{
+    box-shadow:0 0 1px  black;
+    
+ }
+ select {
+    border: none;
+    margin:0 auto;
+    padding:0 15px;
+    background:none;
+}
+.offset1{
+    height: 120px;
+}

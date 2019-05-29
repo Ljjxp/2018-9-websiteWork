@@ -1,0 +1,22 @@
+.text_title
+{
+	padding: 0px;
+	position:relative;
+	top:20px;
+	left:13%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+	font-size: 38px;
+	text-align: center;
+}
+.image
+{
+	width:100%;
+	margin:5% 40% 17% 0%;
+}
+.pictures
+{
+	width:16%;
+	margin:16% 42% 0% 42%;
+}

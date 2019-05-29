@@ -1,0 +1,60 @@
+.eachcard
+{
+	font-family:"Microsoft YaHei";
+	position: relative;
+	top:50px;
+	left:70px;
+	height:600px;
+	width: 100%;
+}
+.cardintroduction
+{
+	font-family:"Microsoft YaHei";
+	position: absolute;
+	left: 550px;
+	top: 100px;
+	right:13%;
+}
+.text_title
+{
+	padding: 0px;
+	position:relative;
+	top:20px;
+	left:13%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+}
+.text_title2
+{
+	padding: 0px;
+	position:relative;
+	top:20px;
+	left:13%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+	color:#6d6d6d;
+	font-size:30px;
+}
+.text_title3
+{
+	padding: 0px;
+	position:relative;
+	top:0px;
+	left:3%;
+	width:75%;
+	height:auto;
+	z-index: 9980;
+	color:#000000;
+	font-size:25px;
+}
+.page_title{
+	float: right;
+	margin-right: 4%;
+}
+.page_title img
+{
+	width:180px;
+	height: 180px;
+}
